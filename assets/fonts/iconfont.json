@@ -1,0 +1,44 @@
+{
+  "id": "5155033",
+  "name": "zzy",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1852173",
+      "name": "panda",
+      "font_class": "panda",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "6804634",
+      "name": "Panda",
+      "font_class": "Panda1",
+      "unicode": "e8e9",
+      "unicode_decimal": 59625
+    },
+    {
+      "icon_id": "8744418",
+      "name": "40-panda",
+      "font_class": "-panda",
+      "unicode": "e755",
+      "unicode_decimal": 59221
+    },
+    {
+      "icon_id": "24891551",
+      "name": "Panda",
+      "font_class": "Panda2",
+      "unicode": "e86b",
+      "unicode_decimal": 59499
+    },
+    {
+      "icon_id": "6808028",
+      "name": "Panda",
+      "font_class": "Panda",
+      "unicode": "ed19",
+      "unicode_decimal": 60697
+    }
+  ]
+}
